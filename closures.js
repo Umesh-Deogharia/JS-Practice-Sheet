@@ -6,4 +6,4 @@ let x = 0;
 const fn = () => { console.log(x) };
 x = 5;
 
-fn()
+fn();
